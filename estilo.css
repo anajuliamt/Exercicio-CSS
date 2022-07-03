@@ -16,12 +16,6 @@ body {
     margin-bottom: 0px;
     margin-left: 0px;
     background-color: #96C7C1;
-
-}
-
-.imagem-fundo {
-    opacity: 0.5;
-filter: alpha(opacity=50); 
 }
 
 .cabecalho {
@@ -88,7 +82,11 @@ filter: alpha(opacity=50);
     gap: 40px;
     list-style: none;
     font-family: 'Titan One', cursive;
+}
 
+li {
+    list-style: none;
+    color: black;
 }
 
 .conteudo-principal {
